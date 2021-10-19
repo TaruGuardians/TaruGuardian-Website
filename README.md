@@ -43,13 +43,13 @@ TaruGuardians is a foundation focusing on sustainable development. We are pragma
 </p>
 
 
-<h2 >Contributions :</h2>
+<h2 >Contributions is fun🧡 :</h2>
 
 <p >
 We welcome developers to contribute to our project. Their efforts will be supporting a noble cause, and they will get Hands-on experience with their skills.💥
 </p>
 
-<img src="Assets/CodingGIF.gif" align="center">
+<!-- <img src="https://pin.it/7uqElKO" align="center"> -->
 <hr>
 
 <h2 >How to get started with Us :</h2>
