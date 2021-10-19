@@ -27,11 +27,10 @@ TaruGuardians is a foundation focusing on sustainable development. We are pragma
 
 <h2 >🔥Objectives :</h2>
 <ul>
-<!-- <li>Make a Website for the NGO.</li>
+ <li>Make a Website for the NGO.</li>
 <li>Design new  UI / UX </li>
-<li>Payment Gateway Integration.</li>
 <li>Create an Admin Dashboard.</li>
-<li>Blog Uploading Feature.</li> -->
+<li>Rest will be revealed during the program</li> 
 </ul>
 </hr>
 
@@ -100,7 +99,7 @@ git clone https://github.com/<your-username>/<repo-name>
 **3.** Navigate to the project directory.
 
 ```bash
-cd SFC-foundations
+cd TaruGuardian website
 ```
 
 **4.** Add a reference(remote) to the original repository.
@@ -185,7 +184,7 @@ Your Pull Request has been submitted and will be reviewed by the maintainer and 
 
 <h2> Code Architecture of the project :</h2>
 
-Visit : [Code Architecture](---------)
+Visit : [Code Architecture]()
 
 <hr>
 <h2 align="center" style="font-weight:bold">🌈 Contributors</h2>
