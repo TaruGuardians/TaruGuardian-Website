@@ -185,9 +185,9 @@ Your Pull Request has been submitted and will be reviewed by the maintainer and 
 
 
 
-<h2> Code Architecture of the project :</h2>
+<h2> Basic Architecture of the project :</h2>
 
-Visit : [Code Architecture]()
+Visit : [ Architecture](https://www.figma.com/proto/XOUxOA75WseSAu0C617BvA/Environmental-Website-Landing-Page-Community?node-id=9%3A629&scaling=min-zoom&page-id=0%3A1)
 
 <hr>
 <h2 align="center" style="font-weight:bold">🌈 Contributors</h2>
